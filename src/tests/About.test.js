@@ -29,7 +29,8 @@ describe('Teste se a página About contém as informações sobre a Pokédex', (
   test('Teste se a página contém a imagem de uma Pokédex', () => {
     renderWhithRouter(<About />);
 
-    const verifyImg = screen.getAllByAltText(/Pokédex/i);
-    expect(verifyImg).toBeDefined();
+    const Img = screen.getAllByAltText(/Pokédex/i);
+    const srcImg = 'https://cdn2.bulbagarden.net/upload/thumb/8/86/Gen_I_Pok%C3%A9dex.png/800px-Gen_I_Pok%C3%A9dex.png';
+    expect(Img[0].src).toContain(`${srcImg}`);
   });
 });
