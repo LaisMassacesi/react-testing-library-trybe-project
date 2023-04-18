@@ -7,7 +7,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 <h2>React Testing Library Project</h2>
 
-Nesse projeto desenvolvi testes para uma aplicação React já criada e configurada, utilizando <a href='https://jestjs.io/'>Jest</a> e a biblioteca <a href='https://testing-library.com/'>React Testing Library</a>.
+Nesse projeto desenvolvi testes para uma aplicação React já criada e configurada, utilizando o framework para testes <a href='https://jestjs.io/'>Jest</a> e a biblioteca <a href='https://testing-library.com/'>React Testing Library</a>.
 
 > Habilidades e práticas aplicadas
 - Shell Linux
