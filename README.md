@@ -1,3 +1,26 @@
+# Wellcome to repository of test project with React Testing Library:rocket:
+
+<h2>Trybe</h2>
+This repository contains one project developed during my journey at Trybe.
+
+_"Trybe is a future school to any person who want to improve life and build a success career in tecnology, where the person only pays when they get a good job."_
+
+<h2>React Testing Library Project</h2>
+In this project i developed tests to a React aplication already created and configured, using the <a href='https://jestjs.io/'>Jest</a> framework for tests in javascript and using the library <a href='https://testing-library.com/'>React Testing Library</a>.
+
+> Skills and practice applied
+- Shell Linux;
+- Git;
+- Javascript;
+- Using querie selectors of React-Testing-Library in automated tests;
+- Simulate events with React-Testing-Library in automated tests;
+- Tests logic async flow with React-Testing-Library;
+- Write tests who allow refactoring the estructure of components of the aplication without the necessity of beeing changed;
+- Tests inputs;
+
+> File with code that i developed :paperclips:
+- ./src/tests
+
 # Boas-vindas ao repositório do projeto de testes com React Testing Library:rocket:
 
 <h2>Trybe</h2>
@@ -13,7 +36,7 @@ Nesse projeto desenvolvi testes para uma aplicação React já criada e configur
 - Shell Linux
 - Git
 - Javascript
-- Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
+- Utilizar os seletores de queries da React-Testing-Library em testes automatizados;
 - Simular eventos com a React-Testing-Library em testes automatizados;
 - Testar fluxos lógicos assíncronos com a React-Testing-Library;
 - Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;
@@ -21,6 +44,7 @@ Nesse projeto desenvolvi testes para uma aplicação React já criada e configur
 
 > Arquivo com código que desenvolvi :paperclips:
 - ./src/tests
+
 
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
