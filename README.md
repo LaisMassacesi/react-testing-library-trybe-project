@@ -15,7 +15,7 @@ In this project i developed tests to a React aplication already created and conf
 - Using querie selectors of React-Testing-Library in automated tests;
 - Simulate events with React-Testing-Library in automated tests;
 - Tests logic async flow with React-Testing-Library;
-- Write tests who allow refactoring the estructure of components of the aplication without the necessity of beeing changed;
+- Write tests that allow refactoring the structure of components of the application without the necessity of being changed;
 - Tests inputs;
 
 > File with code that i developed :paperclips:
