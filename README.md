@@ -3,7 +3,7 @@
 <h2>Trybe</h2>
 This repository contains one project developed during my journey at Trybe.
 
-_"Trybe is a future school to any person who want to improve life and build a success career in tecnology, where the person only pays when they get a good job."_
+_"Trybe is a future school to any person who want to improve life and build a success career in technology, where the person only pays when they get a good job."_
 
 <h2>React Testing Library Project</h2>
 In this project i developed tests to a React aplication already created and configured, using the <a href='https://jestjs.io/'>Jest</a> framework for tests in javascript and using the library <a href='https://testing-library.com/'>React Testing Library</a>.
