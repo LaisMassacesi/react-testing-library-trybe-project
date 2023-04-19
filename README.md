@@ -1,4 +1,4 @@
-# Wellcome to repository of test project with React Testing Library:rocket:
+# Welcome to repository of test project with React Testing Library:rocket:
 
 <h2>Trybe</h2>
 This repository contains one project developed during my journey at Trybe.
