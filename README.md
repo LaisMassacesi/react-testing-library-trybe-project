@@ -18,7 +18,7 @@ In this project i developed tests to a React aplication already created and conf
 - Write tests that allow refactoring the structure of components of the application without the necessity of being changed;
 - Tests inputs;
 
-> File with code that i developed :paperclips:
+> File with code i developed :paperclips:
 - ./src/tests
 
 # Boas-vindas ao repositório do projeto de testes com React Testing Library:rocket:
